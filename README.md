@@ -3,7 +3,7 @@ My personal package repository for https://windows96.net/.
 
 ## How do I set it up?
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Driftini/w96pkgs/addrepo.gif">
+	<img src="https://raw.githubusercontent.com/Driftini/w96pkgs/main/addrepo.gif">
 </div>
 
 1. Open the Package Manger;
