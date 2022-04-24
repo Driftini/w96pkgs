@@ -1,0 +1,19 @@
+[
+    {
+        "name": "smoothie",
+        "friendlyName": "Smoothie",
+        "description": "MsgRoom theme bringing back a smooth, late-2000s feel.",
+        "author": "Driftini (https://driftini.github.io/)",
+        "category": "other",
+        "version": 1.1,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 999999,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/s/smoothie/icon32.png",
+            "16x16": "$REPO_PATH$/dist/s/smoothie/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/s/smoothie"
+    }
+]
