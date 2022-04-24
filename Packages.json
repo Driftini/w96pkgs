@@ -9,6 +9,8 @@
         "feature_requirements": [],
         "min_os_version": 2.2776,
         "max_os_version": 999999,
+        "installedSize": 9336,
+        "downloadSize": 3148,
         "depends": [],
         "iconFiles": {
             "32x32": "$REPO_PATH$/dist/s/smoothie/icon32.png",
