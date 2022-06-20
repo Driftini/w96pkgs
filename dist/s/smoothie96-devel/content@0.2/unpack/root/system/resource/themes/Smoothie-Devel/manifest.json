@@ -1,0 +1,12 @@
+{
+	"id": "smoothie-devel",
+	"name": "Smoothie (Development)",
+	"description": "Windows96 theme bringing back a smooth, late-2000s feel.",
+	"author": "Driftini",
+	"themeType": "normal",
+	"iconTheme": "W:/system/resource/icons/base",
+	"soundPack": "C:/system/resource/sounds/win96",
+	"stylesheets": [
+		"C:/system/resource/themes/Smoothie-Devel/Smoothie96.css"
+	]
+}

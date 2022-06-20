@@ -1,7 +1,7 @@
 [
     {
         "name": "smoothie",
-        "friendlyName": "Smoothie",
+        "friendlyName": "Smoothie for MsgRoom",
         "description": "MsgRoom theme bringing back a smooth, late-2000s feel.",
         "author": "Driftini (https://driftini.github.io/)",
         "category": "other",
@@ -13,9 +13,28 @@
         "downloadSize": 3148,
         "depends": [],
         "iconFiles": {
-            "32x32": "$REPO_PATH$/dist/s/smoothie/icon32.png",
-            "16x16": "$REPO_PATH$/dist/s/smoothie/icon16.png"
+            "32x32": "$REPO_PATH$/dist/s/smoothieChat/icon32.png",
+            "16x16": "$REPO_PATH$/dist/s/smoothieChat/icon16.png"
         },
-        "packageRoot": "$REPO_PATH$/dist/s/smoothie"
+        "packageRoot": "$REPO_PATH$/dist/s/smoothieChat"
+    },
+    {
+        "name": "smoothie96-devel",
+        "friendlyName": "Smoothie96 (Development)",
+        "description": "System-wide Windows96 port of my Smoothie theme. (UNSTABLE DEVELOPMENT BUILD)",
+        "author": "Driftini (https://driftini.github.io/)",
+        "category": "other",
+        "version": 0.20,
+        "feature_requirements": [],
+        "min_os_version": 300000,
+        "max_os_version": 999999,
+        "installedSize": 9336,
+        "downloadSize": 3148,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/s/smoothie96-devel/icon32.png",
+            "16x16": "$REPO_PATH$/dist/s/smoothie96-devel/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/s/smoothie96-devel"
     }
 ]
